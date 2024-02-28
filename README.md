@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IEdgeToFortnite
-- 👀 I’m interested in ... Fortnite
-- 📫 How to reach me ... Idgetofortnite@gmail.com
-- 😄 Pronouns: ... nick/her
-- ⚡ Fun fact: ... I love edging to fortnite
+- 👀 I’m interested in ... fortnite
+- 📫 How to reach me ... iedgetofortnite@gmail.com
+- 😄 Pronouns: ... you/me
+- ⚡ Fun fact: ... I edge to fortnite daily
 
 <!---
 IEdgeToFortnite/IEdgeToFortnite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
